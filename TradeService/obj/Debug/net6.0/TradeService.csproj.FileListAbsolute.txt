@@ -1,0 +1,12 @@
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/bin/Debug/net6.0/TradeService.deps.json
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/bin/Debug/net6.0/TradeService.dll
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/bin/Debug/net6.0/TradeService.pdb
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.csproj.AssemblyReference.cache
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.AssemblyInfoInputs.cache
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.AssemblyInfo.cs
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.csproj.CoreCompileInputs.cache
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.dll
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/refint/TradeService.dll
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeService.pdb
+/Users/davidbayley/Projects/SimpleTradeService/TradeService/obj/Debug/net6.0/ref/TradeService.dll
