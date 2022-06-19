@@ -8,9 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TradeService\TradeService.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="TradeDetails.csv" />
   </ItemGroup>
   <ItemGroup>
