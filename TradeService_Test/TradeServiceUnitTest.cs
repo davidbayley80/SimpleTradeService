@@ -15,6 +15,8 @@ public class Tests
         var csv = "TradeDetails.csv";
         var csvreader = new CSVFileReader(csv);
         Assert.That(csvreader, Is.Not.EqualTo(null));
+        // Row count == x
+        // Particular value == 'JPMorgan' 
     }
 
 
