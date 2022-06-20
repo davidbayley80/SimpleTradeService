@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\TradeServiceConsole\TradeDetails.csv">
-      <Link>TradeDetails.csv</Link>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="CSVFileReader.cs">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>

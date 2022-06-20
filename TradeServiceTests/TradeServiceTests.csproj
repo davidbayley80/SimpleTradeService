@@ -17,13 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TradeService\TradeService.csproj" />
-    <ProjectReference Include="..\TradeService\TradeServiceLibrary.csproj" />
+    <ProjectReference Include="..\TradeServiceLibrary\TradeServiceLibrary.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\TradeServiceConsole\TradeDetails.csv">
+    <EmbeddedResource Include="..\TradeServiceConsole\TradeDetails.csv">
       <Link>TradeDetails.csv</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

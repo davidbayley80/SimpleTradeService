@@ -20,4 +20,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TradeServiceLibrary\TradeServiceLibrary.csproj" />
+  </ItemGroup>
 </Project>
