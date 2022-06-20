@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Op5XxozVUC375CYpry1pgmzroYg2BIRad0vDBa7ionz/yarAO7+uR0LGcifJN7dzX+sfhwQ9efYITOhyK16LwQ==",
+  "dgSpecHash": "dKfXV6JFWnNxh9VHScLAOeOCe/1lpBFiPPykEatGrzpu/BsZzh3amA/c3toSaGgSniAtT93ZZQjsX5qydiFWPQ==",
   "success": true,
-  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService_Test/TradeServiceTests.csproj",
+  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
   "expectedPackageFiles": [
     "/Users/davidbayley/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XYfas71jRW8rJ2z0qJ2A3FO0Mp8/NVYo3DIVfdlG4HfvqHQOcDx96rtyLIa/iQpFkERvF/UYt40sos5XzqzsxQ==",
+  "dgSpecHash": "080XHskMXXoo8tEdceKm/n6szkLAyCwDOdfY8kLmIAvdnLR0ENJao98pQjVVQnkFWSFfU+YOVOgSK3hmhXRH9w==",
   "success": true,
-  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

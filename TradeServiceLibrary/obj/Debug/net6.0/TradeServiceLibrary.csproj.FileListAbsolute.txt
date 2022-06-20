@@ -11,3 +11,16 @@
 /Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService/obj/Debug/net6.0/TradeServiceLibrary.pdb
 /Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService/obj/Debug/net6.0/ref/TradeServiceLibrary.dll
 /Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService/bin/Debug/net6.0/CSVFileReader.cs
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/bin/Debug/net6.0/CSVFileReader.cs
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/bin/Debug/net6.0/TradeServiceLibrary.deps.json
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/bin/Debug/net6.0/TradeServiceLibrary.dll
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/bin/Debug/net6.0/TradeServiceLibrary.pdb
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.csproj.AssemblyReference.cache
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.AssemblyInfoInputs.cache
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.AssemblyInfo.cs
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.dll
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/refint/TradeServiceLibrary.dll
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/TradeServiceLibrary.pdb
+/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/Debug/net6.0/ref/TradeServiceLibrary.dll

@@ -3881,8 +3881,8 @@
     },
     "TradeServiceLibrary/1.0.0": {
       "type": "project",
-      "path": "../TradeService/TradeServiceLibrary.csproj",
-      "msbuildProject": "../TradeService/TradeServiceLibrary.csproj"
+      "path": "../TradeServiceLibrary/TradeServiceLibrary.csproj",
+      "msbuildProject": "../TradeServiceLibrary/TradeServiceLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3901,11 +3901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService_Test/TradeServiceTests.csproj",
+      "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
       "projectName": "TradeServiceTests",
-      "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService_Test/TradeServiceTests.csproj",
+      "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
       "packagesPath": "/Users/davidbayley/.nuget/packages/",
-      "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService_Test/obj/",
+      "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidbayley/.nuget/NuGet/NuGet.Config"
@@ -3920,8 +3920,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService/TradeServiceLibrary.csproj": {
-              "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/SimpleTradeService_Git/SimpleTradeService/TradeService/TradeServiceLibrary.csproj"
+            "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
+              "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj"
             }
           }
         }
