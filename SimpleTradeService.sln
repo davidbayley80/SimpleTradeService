@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeService", "TradeService\TradeService.csproj", "{A02F6FAA-46A4-465E-AA42-088A9398BB44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeServiceLibrary", "TradeService\TradeServiceLibrary.csproj", "{A02F6FAA-46A4-465E-AA42-088A9398BB44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeService_Test", "TradeService_Test\TradeService_Test.csproj", "{A3D026D0-D7F9-46F1-86A3-A77F60B489C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeServiceTests", "TradeService_Test\TradeServiceTests.csproj", "{A3D026D0-D7F9-46F1-86A3-A77F60B489C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeServiceConsole", "..\..\TradeServiceConsole\TradeServiceConsole.csproj", "{91287D2A-2E4D-4F78-8CF5-AECDF6B3D34D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A3D026D0-D7F9-46F1-86A3-A77F60B489C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D026D0-D7F9-46F1-86A3-A77F60B489C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D026D0-D7F9-46F1-86A3-A77F60B489C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91287D2A-2E4D-4F78-8CF5-AECDF6B3D34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91287D2A-2E4D-4F78-8CF5-AECDF6B3D34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91287D2A-2E4D-4F78-8CF5-AECDF6B3D34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91287D2A-2E4D-4F78-8CF5-AECDF6B3D34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
