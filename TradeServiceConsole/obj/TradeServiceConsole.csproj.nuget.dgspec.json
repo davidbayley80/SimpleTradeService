@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj": {}
+    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj": {}
   },
   "projects": {
-    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj": {
+    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+        "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
         "projectName": "TradeServiceConsole",
-        "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+        "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
         "packagesPath": "/Users/davidbayley/.nuget/packages/",
-        "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceConsole/obj/",
+        "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidbayley/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
-                "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj"
+              "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
+                "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
+    "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj",
+        "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj",
         "projectName": "TradeServiceLibrary",
-        "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj",
+        "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj",
         "packagesPath": "/Users/davidbayley/.nuget/packages/",
-        "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/SimpleTradeService/TradeServiceLibrary/obj/",
+        "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/davidbayley/.nuget/NuGet/NuGet.Config"
