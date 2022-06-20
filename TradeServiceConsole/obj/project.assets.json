@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TradeServiceLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TradeServiceLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradeServiceLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TradeServiceLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TradeServiceLibrary/TradeServiceLibrary.csproj",
+      "msbuildProject": "../TradeServiceLibrary/TradeServiceLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TradeServiceLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/davidbayley/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+      "projectUniqueName": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
       "projectName": "TradeServiceConsole",
-      "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+      "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
       "packagesPath": "/Users/davidbayley/.nuget/packages/",
-      "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/TradeServiceConsole/obj/",
+      "outputPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidbayley/.nuget/NuGet/NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj": {
+              "projectPath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

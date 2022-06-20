@@ -1,11 +1,13 @@
-﻿namespace TradeServiceConsole
+﻿using TradeService;
+
+namespace TradeServiceConsole
 {
 class Program
     {
         static async Task Main(string[] args)
         {
-            var tradeLoader = new TradeService.TradeQueueLoader("TradeDetails.csv");
-            var portfolioAggregator = new TradeService.PortfolioAggregator();
+            var tradeLoader = new TradeQueueLoader("TradeDetails.csv");
+            var portfolioAggregator = new PortfolioAggregator();
 
             var priceReader = portfolioAggregator.GetTotalPriceAsync(tradeLoader.TradeRecords);
 
