@@ -1,0 +1,12 @@
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/bin/Debug/net7.0/KafkaSetup.deps.json
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/bin/Debug/net7.0/KafkaSetup.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/bin/Debug/net7.0/KafkaSetup.pdb
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.csproj.AssemblyReference.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.AssemblyInfoInputs.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.AssemblyInfo.cs
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.csproj.CoreCompileInputs.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/refint/KafkaSetup.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/KafkaSetup.pdb
+/Users/davidbayley/RiderProjects/SimpleTradeService/KafkaSetup/obj/Debug/net7.0/ref/KafkaSetup.dll

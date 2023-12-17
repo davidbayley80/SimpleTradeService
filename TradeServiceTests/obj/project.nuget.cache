@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vw98iqZx8fXiy0MmgujcQ0fHG7vCzo77ukYiEDeexcLHqBRYf2JA2y+Bez9RkHNP6CUxZCwSNvkWjF12gEMhww==",
+  "dgSpecHash": "GBODv3HhNe8Pjx0lDgeuJsyp/D9h3d//BonxMXc1wcWje6zM2dg6k5tmJFh5UXEnjxorA+Gq5r4pjS6tTs074A==",
   "success": true,
-  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
+  "projectFilePath": "/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
   "expectedPackageFiles": [
+    "/Users/davidbayley/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
@@ -28,6 +30,7 @@
     "/Users/davidbayley/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.objectmodel/4.0.12/system.objectmodel.4.0.12.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",

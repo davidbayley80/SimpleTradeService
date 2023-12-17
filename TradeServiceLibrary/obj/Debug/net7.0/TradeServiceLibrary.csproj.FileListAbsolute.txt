@@ -1,0 +1,16 @@
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/CSVFileReader.cs
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/TradeServiceLibrary.deps.json
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/TradeServiceLibrary.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/TradeServiceLibrary.pdb
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.csproj.AssemblyReference.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.AssemblyInfoInputs.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.AssemblyInfo.cs
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/refint/TradeServiceLibrary.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.pdb
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/ref/TradeServiceLibrary.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/TradeLoaderLibrary.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/bin/Debug/net7.0/TradeLoaderLibrary.pdb
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/obj/Debug/net7.0/TradeServiceLibrary.csproj.CopyComplete

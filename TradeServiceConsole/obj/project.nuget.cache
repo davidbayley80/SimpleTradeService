@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k0fUh8+iSWO5x2ObWZ/SaJv5WtGIWBAsPEqsgrT2+ZjdUiFwPYa5GaXR31xpSJ9PTxz5BDSyHs0dhyVutnEGCg==",
+  "dgSpecHash": "+OblbAYPh856dbGROKn9SL3aaGto9wKbEyyHj+HV/ZJ5c1JGtJXTsUMOSVXnyaxLA8gCnEP/6Kid75/mG1UX7g==",
   "success": true,
-  "projectFilePath": "/Users/davidbayley/Projects/SimpleTradeService/GitRepo/newGitPull/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/TradeServiceConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidbayley/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

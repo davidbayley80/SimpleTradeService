@@ -1,4 +1,5 @@
-﻿using TradeService;
+﻿using TradeLoaderLibrary;
+using TradeService;
 
 namespace TradeServiceTests;
 
@@ -42,6 +43,11 @@ public class TradeService_Test
         var priceReader = portfolioAggregator.GetTotalPriceAsync(tradeLoader.TradeRecords);
         await Task.WhenAll(tradeLoader.LoadAsync(), priceReader);
         Assert.That(priceReader.Result, Is.EqualTo(8975857));
+    }
 
+    [Test]
+    public async Task Test_ConsumingMessagesFromKafkaBroker()
+    {
+        
     }
 }
