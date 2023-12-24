@@ -3,19 +3,15 @@ using TradeLoaderLibrary;
 
 namespace TradeLoaderLibrary
 {
-    public class TradeQueueLoader
+    public class TradeQueueLoader : ITradeQueueLoader
     {
-        
-        private readonly string _tradeFile;
+        private readonly ICSVFileReader _csvFileReader;
         private readonly BlockingCollection<TradeAttributes> _items; 
 
-        public TradeQueueLoader(string tradeFile)
+        public TradeQueueLoader(ICSVFileReader csvFileReader)
         {
-            _tradeFile = tradeFile;
+            _csvFileReader = csvFileReader;
             _items = new BlockingCollection<TradeAttributes>();
-            
-            
-
         }
 
         public async Task LoadAsync()
@@ -23,11 +19,10 @@ namespace TradeLoaderLibrary
             await Task.Run(LoadRecords);
             
         }
-        
 
         public void LoadRecords()
         {
-            foreach (var record in new CSVFileReader(_tradeFile).Parse())
+            foreach (var record in _csvFileReader.Parse())
             {
                 _items.Add(record);
             }

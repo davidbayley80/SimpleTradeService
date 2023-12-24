@@ -8,11 +8,12 @@ public class TradeService_Test
 
     public TradeQueueLoader? tradeLoader;
     public PortfolioAggregator? portfolioAggregator;
+    private readonly ICSVFileReader _csvFileReader;
 
     [SetUp]
     public void Setup()
     {
-        tradeLoader = new TradeQueueLoader("TradeDetails.csv");
+        tradeLoader = new TradeQueueLoader(_csvFileReader);
         portfolioAggregator = new PortfolioAggregator();
     }
 

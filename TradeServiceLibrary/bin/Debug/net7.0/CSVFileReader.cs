@@ -1,11 +1,16 @@
 ﻿using System;
 namespace TradeLoaderLibrary
 {
-	public class CSVFileReader
+	public class CsvFileReader : ICSVFileReader
 	{
+		public void Run()
+		{
+			Console.WriteLine("TEST IN CSVFileReader");
+		}
+		
 		private readonly string _filePath;
 
-		public CSVFileReader(string filePath) => _filePath = filePath;
+		public CsvFileReader(string filePath) => _filePath = filePath;
 
 		public IEnumerable<TradeAttributes> Parse()
         {

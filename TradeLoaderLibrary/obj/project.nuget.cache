@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "/ivy3zFpKrCFUAvx40OGJh4AtxApHBN2VzOf+SYJM2cwDXWwYU2Je59S6TVo15+sO4VtIaq4KVgsKaXL/k6u4Q==",
+  "dgSpecHash": "yRiVZuhwtwTH//Hk9gCuqjX64DuRjMDugj3oW+heX/jF6v3QO0xcK9inh+UtGRcgeOjroZsxbmUW0fK/2YrInA==",
   "success": true,
   "projectFilePath": "/Users/davidbayley/RiderProjects/SimpleTradeService/TradeLoaderLibrary/TradeLoaderLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
