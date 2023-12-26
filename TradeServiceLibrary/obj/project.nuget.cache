@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PBmH8nHGLE63Utpgh/F/buEw66kkt3fJfBD6P9sHI+p0SoadMCUdqHY73dpgubdwl94cYPUzs6qTEQw5sDReiA==",
+  "dgSpecHash": "tIGo2gUWZf2CUIQ+FvvONbg4DpJKA+cy+Giaqq+AuJ9CrCd3Ftg2iIMc+VuLPY26QBC9RIXk7PzfuiaqhDhkmQ==",
   "success": true,
   "projectFilePath": "/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceLibrary/TradeServiceLibrary.csproj",
   "expectedPackageFiles": [
@@ -8,12 +8,14 @@
     "/Users/davidbayley/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/nlog/5.2.7/nlog.5.2.7.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"

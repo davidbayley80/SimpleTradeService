@@ -1,0 +1,7 @@
+2023-12-24 17:24:04.8781|INFO|TradeServiceConsole.Program|Application started.
+2023-12-24 17:25:02.2316|INFO|TradeServiceConsole.Program|Application started.
+2023-12-24 17:25:06.9077|DEBUG|TradeServiceConsole.Program|This is a debug message.
+2023-12-24 17:25:09.7084|ERROR|TradeServiceConsole.Program|This is an error message.
+2023-12-24 17:25:59.0033|INFO|TradeServiceConsole.Program|Application started.
+2023-12-24 17:26:07.3160|DEBUG|TradeServiceConsole.Program|This is a debug message.
+2023-12-24 17:26:08.6521|ERROR|TradeServiceConsole.Program|This is an error message.

@@ -13,6 +13,7 @@ namespace TradeLoaderLibrary
             _csvFileReader = csvFileReader;
             _items = new BlockingCollection<TradeAttributes>();
         }
+        
 
         public async Task LoadAsync()
         {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LaNpsSPsb2abi1k9zGhc2sD3qyT2tY090KedOi30n75PABgpBsI3Y7hM0Zawr85BfxB9hvyPMEb/5ZKMQMtK9g==",
+  "dgSpecHash": "8wo7PiIe1+zGBHp2nODeVgiIvOYldwOkhcDqfGxHpIgSVw3uJ8QgpEq1UYOaR/ewjIKSQix2uaT3U/EIRhzJHw==",
   "success": true,
   "projectFilePath": "/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceTests/TradeServiceTests.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "/Users/davidbayley/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
@@ -24,6 +25,7 @@
     "/Users/davidbayley/.nuget/packages/microsoft.testplatform.testhost/17.1.0/microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/davidbayley/.nuget/packages/nlog/5.2.7/nlog.5.2.7.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/davidbayley/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",

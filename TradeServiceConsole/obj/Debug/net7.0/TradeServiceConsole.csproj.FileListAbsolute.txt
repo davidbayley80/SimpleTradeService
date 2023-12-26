@@ -62,3 +62,6 @@
 /Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/obj/Debug/net7.0/TradeServiceConsole.genruntimeconfig.cache
 /Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/obj/Debug/net7.0/ref/TradeServiceConsole.dll
 /Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/bin/Debug/net7.0/AppSettings.json
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/bin/Debug/net7.0/NLog.dll
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/bin/Debug/net7.0/NLog.config
+/Users/davidbayley/RiderProjects/SimpleTradeService/TradeServiceConsole/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll

@@ -1,0 +1,51 @@
+2023-12-26 10:41:58.0066|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 10:41:58.0575|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 10:48:31.9242|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 10:48:31.9749|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 10:49:25.2812|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 10:49:42.2684|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:06:30.3371|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:06:36.5144|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:19:26.4799|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:19:30.3758|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:21:17.5882|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:21:17.6721|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:21:48.9727|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:21:49.0503|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:31:49.0026|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:31:54.2121|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:32:23.7962|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:32:23.8789|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:36:34.2022|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:36:34.2823|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:43:20.9706|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:43:21.0527|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:46:29.6696|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:46:29.7507|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 11:57:42.9705|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 11:57:43.0508|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:01:43.7485|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:01:43.8276|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:03:49.5930|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:03:49.6716|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:10:35.0971|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:10:35.1515|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:10:36.0121|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 12:10:36.0121|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 12:11:04.8661|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:11:04.9202|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:11:05.7711|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 12:11:05.7711|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 12:11:51.9944|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:11:52.0445|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:11:52.9013|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 12:11:52.9013|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 12:12:02.6039|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:12:02.6593|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:12:02.8951|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 12:12:02.8951|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 12:12:38.0208|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 12:12:38.0730|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 12:12:38.0739|INFO|TradeServiceConsole.Program|Checking Kafka broker setup...
+2023-12-26 12:12:38.3092|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 12:12:38.3092|INFO|TradeServiceConsole.Program|Application has started
