@@ -11,7 +11,6 @@ class Program
     {
         public static IConfiguration? Configuration { get; private set; }
         private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
-       //  public static ICSVFileReader CsvFileReader = new CsvFileReader();
 
         static async Task Main(string[] args)
         {
@@ -26,8 +25,9 @@ class Program
             Logger.Info("Config and Dependancies have setup");
 
             await InitializeKafkaAsync(configuration);
-            await PerformBusinessOperations(serviceProvider);
             Logger.Info("Kafka has been initialied");
+            
+            await PerformBusinessOperations(serviceProvider, configuration);
             
             Logger.Info("Application has started");
             Console.ReadLine();
@@ -65,13 +65,26 @@ class Program
             }
         }
 
-        private static async Task PerformBusinessOperations(IServiceProvider serviceProvider)
+        private static async Task PerformBusinessOperations(IServiceProvider serviceProvider, IConfiguration configuration)
         { 
-            // var csvFileLoader = new CsvFileReader(csvFilePath);
-            // var tradeLoader = new TradeQueueLoader(csvFileLoader);
-            // var portfolioAggregator = new PortfolioAggregator();
-            //  var priceReader = portfolioAggregator.GetTotalPriceAsync(tradeLoader.TradeRecords);
             
+            // Trade producer 
+                // Load CSV into memory 
+                // put trades on the queue one by one 
+                
+                var csvFilePath = configuration["FilePath"];
+                var operationHandler = serviceProvider.GetService<ICSVFileReader>();
+                
+                await foreach (var tradeAttribute in operationHandler.ParseAsync())
+                {
+                    Console.WriteLine($"TradeID: {tradeAttribute._tradeID}");
+                }
+                
+                
+            // Trade Consumer 
+            
+            // With DI Containers - when they're already created in DI. How do i then use them? 
+             
             // kick the load off via async
             // await Task.WhenAll(tradeLoader.LoadAsync(), priceReader);
 
@@ -82,7 +95,6 @@ class Program
             // // var csvFileReader = serviceProvider.GetService<ICSVFileReader>();
             // var myApp = serviceProvider.GetService<MyApplication>();
             // myApp.Run();
-            
             
         }
         
@@ -98,13 +110,14 @@ class Program
         private static void ConfigureServices(IServiceCollection services, IConfiguration configuration)
         {
             var csvFilePath = configuration["CsvFileReaderOptions:FilePath"];
-            // Register CsvFileReader with the file path from configuration
+            
+            // Register CsvFileReader with the file path from configuration:
             services.AddTransient<ICSVFileReader>(_ => new CsvFileReader(csvFilePath));
             
             // Register your services here. For example:
-             services.AddTransient<ITradeQueueLoader,TradeQueueLoader>();
-            services.AddTransient<MyApplication>();
-            // ... other services and configurations
+                // services.AddTransient<ITradeQueueLoader,TradeQueueLoader>();
+                // services.AddTransient<MyApplication>();
+                // ... other services and configurations
         }
     }
 }

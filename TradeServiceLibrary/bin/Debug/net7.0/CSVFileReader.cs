@@ -9,10 +9,11 @@ namespace TradeLoaderLibrary
 		}
 		
 		private readonly string _filePath;
+        
 
 		public CsvFileReader(string filePath) => _filePath = filePath;
 
-		public IEnumerable<TradeAttributes> Parse()
+	/*	public IEnumerable<TradeAttributes> Parse()
         {
 			foreach (var line in File.ReadLines(_filePath).Skip(1))
 			{
@@ -23,6 +24,32 @@ namespace TradeLoaderLibrary
 				// Yield returns one row at at time to IEnumerable 
 				yield return new TradeAttributes(lineParts[0], lineParts[1], lineParts[2], lineParts[3], lineParts[4], lineParts[5]);
 			}
+        } */
+        
+        
+        public async IAsyncEnumerable<TradeAttributes> ParseAsync()
+        {
+            await foreach (var line in ReadLinesAsync(_filePath).SkipAsync(1))
+            {
+                if (string.IsNullOrWhiteSpace(line)) continue;
+                var lineParts = line.Split(',');
+                if (lineParts.Length != 6) continue; // Todo: Log warning
+        
+                yield return new TradeAttributes(
+                    lineParts[0], lineParts[1], lineParts[2], 
+                    lineParts[3], lineParts[4], lineParts[5]);
+            }
+        }
+
+        
+        public static async IAsyncEnumerable<string> ReadLinesAsync(string filePath)
+        {
+            using var file = new StreamReader(filePath);
+            string line;
+            while ((line = await file.ReadLineAsync()) != null)
+            {
+                yield return line;
+            }
         }
 	}
 }

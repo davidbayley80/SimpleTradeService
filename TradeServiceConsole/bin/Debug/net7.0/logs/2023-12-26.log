@@ -49,3 +49,13 @@
 2023-12-26 12:12:38.0739|INFO|TradeServiceConsole.Program|Checking Kafka broker setup...
 2023-12-26 12:12:38.3092|INFO|TradeServiceConsole.Program|Kafka has been initialied
 2023-12-26 12:12:38.3092|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 18:10:48.9840|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 18:10:49.0428|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 18:10:49.0438|INFO|TradeServiceConsole.Program|Checking Kafka broker setup...
+2023-12-26 18:10:49.2935|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 18:10:49.2935|INFO|TradeServiceConsole.Program|Application has started
+2023-12-26 18:56:22.7489|INFO|TradeServiceConsole.Program|Application started.
+2023-12-26 18:56:22.8116|INFO|TradeServiceConsole.Program|Config and Dependancies have setup
+2023-12-26 18:56:22.8116|INFO|TradeServiceConsole.Program|Checking Kafka broker setup...
+2023-12-26 18:56:23.0591|INFO|TradeServiceConsole.Program|Kafka has been initialied
+2023-12-26 18:56:23.0728|INFO|TradeServiceConsole.Program|Application has started

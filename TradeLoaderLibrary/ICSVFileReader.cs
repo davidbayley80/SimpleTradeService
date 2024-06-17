@@ -2,7 +2,8 @@ namespace TradeLoaderLibrary;
 
 public interface ICSVFileReader
 {
-    IEnumerable<TradeAttributes> Parse();
+    IAsyncEnumerable<TradeAttributes> ParseAsync();
+    // IEnumerable<TradeAttributes> Parse();
 
     void Run();
 }

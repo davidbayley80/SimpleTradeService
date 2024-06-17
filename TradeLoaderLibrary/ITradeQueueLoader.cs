@@ -1,7 +1,7 @@
-namespace TradeLoaderLibrary;
-
-public interface ITradeQueueLoader
-{
-    public Task LoadAsync();
-    public void LoadRecords();
-}
+// namespace TradeLoaderLibrary;
+//
+// public interface ITradeQueueLoader
+// {
+//     public Task LoadAsync();
+//     public void LoadRecords();
+// }
